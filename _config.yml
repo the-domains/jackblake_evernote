@@ -1,20 +1,4 @@
-name: Jackblake evernote
-favicon: null
-layout_spectrum: 0.5050467550754547
 typography_spectrum: 0.9124046200886369
-title: Jack Blake Evernotes
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,31 @@ color:
   lightness: 0.18208130984567106
   saturation: 0.8758026375435293
   rhythmicContrast: 0.6061103132087737
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5050467550754547
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Jack
+  email: jack3blake@gmail.com
+name: Jackblake evernote
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Jack Blake Evernotes
+description: Connecting The Squad Through Evernotes
+purpose:
+  - type: external
+    url: 'https://www.instagram.com/jblake_913/'
+    label: Follow Me Here
+  - type: contact
+    url: 'mailto:jack3blake@gmail.com'
+    label: Contact Me
