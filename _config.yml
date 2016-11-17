@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 'Client: Helio, A Food Company'
+    url: 'https://www.heliofoodcompany.com/pages/the-helio-story'
+    type: external
 favicon: null
 title: Captain Jack's Blog
 content: []
