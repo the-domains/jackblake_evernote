@@ -30,6 +30,7 @@ cta:
   version: null
 favicon: null
 title: Jack Blake Evernotes
+content: []
 description: Connecting The Squad Through Evernotes
 purpose:
   - type: external
