@@ -64,9 +64,9 @@ app_links:
 isBasedOnUrl: >-
   http://www.tetongravity.com/forums/showthread.php/301808-The-Wim-Hof-Method-Physical-training-that-changed-my-life?s=71263dd8d8227ca7c552ac65c861a6c6
 title: 'The Wim Hof Method: Physical training that changed my life.'
-datePublished: '2016-12-19T02:16:29.945Z'
-dateModified: '2016-12-19T02:15:34.443Z'
-datePublishedOriginal: '2016-12-19T02:16:29.945Z'
+datePublished: '2016-12-19T02:22:43.179Z'
+dateModified: '2016-12-19T02:16:07.671Z'
+datePublishedOriginal: '2016-12-19T02:22:43.179Z'
 via: {}
 inFeed: true
 starred: false
