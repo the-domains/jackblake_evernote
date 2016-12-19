@@ -23,7 +23,7 @@ analytics:
 author:
   name: Jack
   email: jack3blake@gmail.com
-name: 'Captain Jack Blake '
+name: Captain Jack's Blog
 cta:
   domain: null
   bucket: null
@@ -35,7 +35,7 @@ navigation:
 favicon: null
 title: Captain Jack's Blog
 content: []
-description: 'Monthly Perspectives From My Entrepreneurial Endeavors '
+description: 'Many Perspectives From My Entrepreneurial Endeavors '
 purpose:
   - type: external
     url: 'https://www.instagram.com/jblake_913/'
