@@ -32,6 +32,9 @@ navigation:
   - name: 'Client: Helio, A Food Company'
     url: 'https://www.heliofoodcompany.com/pages/the-helio-story'
     type: external
+  - name: About Me
+    id: 85278aed-0129-494d-9fb4-14a46083a5ae
+    type: content
 favicon: null
 title: Captain Jack's Blog
 content: []
