@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-27T01:41:42.998Z'
+datePublished: '2016-12-27T01:43:35.711Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-27T01:41:41.699Z'
+dateModified: '2016-12-27T01:43:34.135Z'
 title: 'If you had to train to be as strong as Tarzan, where would you start?'
 publisher: {}
 description: Tarzan was a beast in the newest movie. He was a man among men.
