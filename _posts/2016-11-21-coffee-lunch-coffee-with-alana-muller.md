@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-12-27T01:18:15.431Z'
+datePublished: '2016-12-27T01:43:35.859Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-27T01:18:14.529Z'
+dateModified: '2016-12-27T01:43:34.135Z'
 title: Coffee Lunch Coffee With Alana Muller
 publisher: {}
 description: >-
   “When we're hanging on to our (or others’) previously held beliefs, we hinder
   our own allowance for change and new beginnings. We let others do the
-  experiencing for us.” 
+  experiencing for us.”
 sourcePath: _posts/2016-11-21-coffee-lunch-coffee-with-alana-muller.md
 hasPage: true
 starred: false
