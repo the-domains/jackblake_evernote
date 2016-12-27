@@ -39,15 +39,15 @@ title: >-
   @russellbrunson @tonyrobbins @bulletproof @tylerbabin . . . . #vaynertalent
   #fatadaptive #kansascity #entrepreneur #entrepreneurlife #podcast #panel
   #heliofoodcompany #helio #twins
-datePublished: '2016-12-20T21:45:27.147Z'
-dateModified: '2016-12-20T21:45:17.341Z'
-datePublishedOriginal: '2016-12-20T21:45:27.147Z'
+datePublished: '2016-12-27T01:43:35.886Z'
+dateModified: '2016-12-27T01:43:34.135Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-12-20-an-important-concept-i-hope-my-audience-understands-is-that.md
+starred: false
+datePublishedOriginal: '2016-12-20T21:45:27.147Z'
 _type: MediaObject
 _context: 'http://schema.org'
 
