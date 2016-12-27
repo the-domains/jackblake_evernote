@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  246 Comments Share this: Written by Tim Ferriss Topics: Physical Performance,
+  246 CommentsShare this:Written by Tim Ferriss Topics: Physical Performance,
   Science, The 4-Hour Body - 4HB
-dateModified: '2016-12-27T01:39:51.216Z'
-datePublished: '2016-12-27T01:39:52.426Z'
+dateModified: '2016-12-27T01:43:34.135Z'
+datePublished: '2016-12-27T01:43:35.710Z'
 title: >-
   Potential Tactics for Defeating Cancer — A Toolkit in 1,000 Words | The Blog
   of Author Tim Ferriss
@@ -12,9 +12,9 @@ author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-27-potential-tactics-for-defeating-cancer-a-toolkit-in-1000.md
 starred: false
 datePublishedOriginal: '2016-12-27T01:39:52.426Z'
-sourcePath: _posts/2016-12-27-potential-tactics-for-defeating-cancer-a-toolkit-in-1000.md
 url: potential-tactics-for-defeating-cancer-a-toolkit-in-1000/index.html
 _type: Article
 
