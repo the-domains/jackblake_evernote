@@ -33,14 +33,14 @@ isBasedOnUrl: 'http://fourhourworkweek.com/blog/'
 title: >-
   Blog | The Blog of Author Tim Ferriss | Tim Ferriss's 4-Hour Workweek and
   Lifestyle Design Blog
-datePublished: '2016-12-27T01:40:42.383Z'
-dateModified: '2016-12-27T01:40:27.031Z'
-datePublishedOriginal: '2016-12-27T01:40:42.383Z'
+datePublished: '2016-12-27T01:43:35.860Z'
+dateModified: '2016-12-27T01:43:34.135Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-12-27-blog-or-the-blog-of-author-tim-ferriss-or-tim-ferrisss-4-hour.md
+starred: false
+datePublishedOriginal: '2016-12-27T01:40:42.383Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
