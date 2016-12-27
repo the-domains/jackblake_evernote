@@ -25,13 +25,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.quarterdeck.co/'
 title: Quarter Deck
-datePublished: '2016-12-27T01:46:20.457Z'
-dateModified: '2016-12-27T01:46:11.622Z'
-datePublishedOriginal: '2016-12-27T01:46:20.457Z'
+datePublished: '2016-12-27T01:48:42.665Z'
+dateModified: '2016-12-27T01:48:42.179Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-27-quarter-deck.md
+starred: false
+datePublishedOriginal: '2016-12-27T01:46:20.457Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
