@@ -39,8 +39,8 @@ title: >-
   @russellbrunson @tonyrobbins @bulletproof @tylerbabin . . . . #vaynertalent
   #fatadaptive #kansascity #entrepreneur #entrepreneurlife #podcast #panel
   #heliofoodcompany #helio #twins
-datePublished: '2016-12-27T01:43:35.886Z'
-dateModified: '2016-12-27T01:43:34.135Z'
+datePublished: '2017-01-06T17:45:15.829Z'
+dateModified: '2017-01-06T17:45:15.159Z'
 description: ''
 via: {}
 inFeed: true
