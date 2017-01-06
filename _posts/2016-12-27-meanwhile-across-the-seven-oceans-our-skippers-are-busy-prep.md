@@ -28,8 +28,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BOXe4sMl-Da/?taken-by=quarterdeck.co&hl=en'
 title: "Meanwhile across the seven oceans our Skippers are busy preparing for the holidays QD style\uD83C\uDF84 Photo by @michaelvanarey"
-datePublished: '2016-12-27T01:48:42.667Z'
-dateModified: '2016-12-27T01:48:42.179Z'
+datePublished: '2017-01-06T17:45:15.843Z'
+dateModified: '2017-01-06T17:45:15.159Z'
 description: ''
 via: {}
 inFeed: true
