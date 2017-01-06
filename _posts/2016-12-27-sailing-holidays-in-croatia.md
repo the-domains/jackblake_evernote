@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.theyachtweek.com/croatia'
 title: Sailing Holidays in Croatia
-datePublished: '2016-12-27T01:48:42.660Z'
-dateModified: '2016-12-27T01:48:42.179Z'
+datePublished: '2017-01-06T17:42:47.867Z'
+dateModified: '2017-01-06T17:42:46.430Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-27-sailing-holidays-in-croatia.md
