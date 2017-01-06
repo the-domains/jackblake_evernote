@@ -2,9 +2,9 @@
 author:
   - avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3d057f6466eb84c0e60b47653aa632d0/noop.jpg?input=https%3A%2F%2Fyt3.ggpht.com%2F-6BybM9OoonU%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FoToizjj07oo%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e94e253e6d8e1bd26db285f9e0bdd0097568c63.jpg
       original: >-
-        https://yt3.ggpht.com/-6BybM9OoonU/AAAAAAAAAAI/AAAAAAAAAAA/oToizjj07oo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3d057f6466eb84c0e60b47653aa632d0/noop.jpg?input=https%3A%2F%2Fyt3.ggpht.com%2F-6BybM9OoonU%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FoToizjj07oo%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg
       width: 900
       height: 900
       colors:
@@ -74,13 +74,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/channel/UCgsPGTkZJoT6QFEn2vtUM_w'
 title: Jack Blake
-datePublished: '2016-12-27T01:49:22.539Z'
-dateModified: '2016-12-27T01:47:59.895Z'
-datePublishedOriginal: '2016-12-27T01:49:22.539Z'
+datePublished: '2017-01-06T17:45:15.843Z'
+dateModified: '2017-01-06T17:45:15.159Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-27-jack-blake.md
+starred: false
+datePublishedOriginal: '2016-12-27T01:49:22.539Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
