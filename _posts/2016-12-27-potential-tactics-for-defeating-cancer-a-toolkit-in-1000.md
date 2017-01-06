@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   246 CommentsShare this:Written by Tim Ferriss Topics: Physical Performance,
   Science, The 4-Hour Body - 4HB
-dateModified: '2017-01-06T17:42:46.430Z'
-datePublished: '2017-01-06T17:42:47.858Z'
+dateModified: '2017-01-06T17:45:15.159Z'
+datePublished: '2017-01-06T17:45:15.841Z'
 title: >-
   Potential Tactics for Defeating Cancer — A Toolkit in 1,000 Words | The Blog
   of Author Tim Ferriss
