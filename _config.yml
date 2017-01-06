@@ -14,7 +14,7 @@ github: true
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: '247996035605941'
 layout_spectrum: 0.915051580359145
 analytics:
   google: null
