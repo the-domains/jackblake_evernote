@@ -4,8 +4,8 @@ description: >-
   “I feel stronger from within. I feel like I've learned how to train the tiny
   muscles surrounding my capillaries. I know that sounds strange. You'll have to
   feel it to understand it, I think.”
-dateModified: '2016-12-27T01:43:34.135Z'
-datePublished: '2016-12-27T01:43:35.749Z'
+dateModified: '2017-01-06T17:42:46.430Z'
+datePublished: '2017-01-06T17:42:47.847Z'
 title: 'THE WIM HOF METHOD: PHYSICAL TRAINING THAT CHANGED MY LIFE.'
 author:
   - name: Lewis Howes
