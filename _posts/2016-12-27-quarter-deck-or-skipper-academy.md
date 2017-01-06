@@ -25,13 +25,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.quarterdeck.co/skipper/skipper-academy'
 title: Quarter Deck | Skipper Academy
-datePublished: '2016-12-27T01:49:19.937Z'
-dateModified: '2016-12-27T01:47:20.795Z'
-datePublishedOriginal: '2016-12-27T01:49:19.937Z'
+datePublished: '2017-01-06T17:45:15.842Z'
+dateModified: '2017-01-06T17:45:15.159Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-27-quarter-deck-or-skipper-academy.md
+starred: false
+datePublishedOriginal: '2016-12-27T01:49:19.937Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
