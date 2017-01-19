@@ -1,44 +1,6 @@
-layout_spectrum: 0.17927574130577395
-typography_spectrum: 0.32233285447656373
-color:
-  brandColors:
-    - '#0A5F7A'
-    - '#242827'
-    - '#FDDDCB'
-    - '#787FA1'
-    - '#BFBBC9'
-  brandStrength: 0.14450310997415963
-  lightness: 0.9131563500126842
-  saturation: 0.7616873973066743
-  rhythmicContrast: 0.9888954212600457
-github: true
-opengraph:
-  image: null
-  type: null
-  appId: '247996035605941'
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Jack
-  email: jack3blake@gmail.com
-name: Captain Jack's Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: 'Client: Helio, A Food Company'
-    url: 'https://www.heliofoodcompany.com/pages/the-helio-story'
-    type: external
-  - name: About Me
-    id: 85278aed-0129-494d-9fb4-14a46083a5ae
-    type: content
-favicon: null
 title: Captain Jack's Blog
 content: []
-description: 'Perspectives From My Daily Endeavors '
+github: true
 purpose:
   - type: external
     url: 'https://www.instagram.com/jblake_913/'
@@ -46,3 +8,53 @@ purpose:
   - type: external
     url: 'https://www.heliofoodcompany.com/products/five-day-supply'
     label: TRY THIS
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 'Perspectives From My Daily Endeavors '
+color:
+  saturation: 0.7616874
+  brandStrength: 0.8888889
+  lightness: 0.7258065
+  brandColors:
+    - '#0A5F7A'
+    - '#242827'
+    - '#FDDDCB'
+    - '#787FA1'
+    - '#BFBBC9'
+  rhythmicContrast: 0.9888954
+navigation:
+  - name: 'Client: Helio, A Food Company'
+    url: 'https://www.heliofoodcompany.com/pages/the-helio-story'
+    type: external
+  - name: About Me
+    id: 85278aed-0129-494d-9fb4-14a46083a5ae
+    type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Captain Jack's Blog
+author:
+  name: Jack
+  email: jack3blake@gmail.com
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: '247996035605941'
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+typography_spectrum: 0.7275985
+layout_spectrum: 0.4946237
