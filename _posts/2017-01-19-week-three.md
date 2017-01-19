@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: MONDAY
-dateModified: '2017-01-19T02:05:18.479Z'
-datePublished: '2017-01-19T02:05:19.288Z'
+dateModified: '2017-01-19T02:55:44.678Z'
+datePublished: '2017-01-19T02:55:45.099Z'
 title: WEEK THREE
 author:
   - name: Gary Vaynerchuk
@@ -15,9 +15,9 @@ publisher:
   domain: www.youtube.com
 via: {}
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Y16yuZz4xTo'
+sourcePath: _posts/2017-01-19-week-three.md
 starred: false
 datePublishedOriginal: '2017-01-19T02:05:19.288Z'
-sourcePath: _posts/2017-01-19-week-three.md
 _type: MediaObject
 
 ---
@@ -39,11 +39,17 @@ HOW TO OPEN THE GATE
 
 TUESDAY
 
+Evernote for the Day
+
+<article style=""><img src="https://www.evernote.com/shard/s504/sh/ee49dcea-fc63-42de-8186-9867509a0ab7/e8af7e9aa73c59ba1e60996af8a9fcf4/thm/note/ee49dcea-fc63-42de-8186-9867509a0ab7" /><h1>3. "edit day"</h1><p>Make Acendas' Vlog for Ascend Learning Add Brent Context Add Credits (white background with Acendas Logo) Episode 12: Helio Food company IG Trailer Facebook Trailer for Benton &amp; Ryan Episode 12 Cont...</p></article>
+
 Here's Helio's Daily Video Real 
 
 Show Notes: [AUDIO ][0]
 
-<article style=""><img src="http://static.libsyn.com/p/assets/6/c/8/a/6c8ad08e4f62b6b2/Podcast_Cover_Image_FINAL_v1.png" /><h1>The GaryVee Audio Experience</h1><p>Listen to The GaryVee Audio Experience episodes free, on demand. Welcome to The GaryVee Audio Experience, hosted by entrepreneur, CEO, investor, vlogger, and public speaker Gary Vaynerchuk. On this podcast you'll find a mix of my #AskGaryVee show episodes, keynote speeches on marketing and business, segments from my DAILYVEE video series, interviews and fireside chats I've given, as well as new and current thoughts I record originally for this audio experience!</p></article>
+Or go to the website here: 
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07e16f77961d41033333e7d3e255f907091c6d36.png" /><h1>The GaryVee Audio Experience</h1><p>Listen to The GaryVee Audio Experience episodes free, on demand. Welcome to The GaryVee Audio Experience, hosted by entrepreneur, CEO, investor, vlogger, and public speaker Gary Vaynerchuk. On this podcast you'll find a mix of my #AskGaryVee show episodes, keynote speeches on marketing and business, segments from my DAILYVEE video series, interviews and fireside chats I've given, as well as new and current thoughts I record originally for this audio experience!</p></article>
 
 WEDNESDAY 
 
