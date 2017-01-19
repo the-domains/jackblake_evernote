@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: MONDAY
-dateModified: '2017-01-19T03:07:55.465Z'
-datePublished: '2017-01-19T03:07:55.894Z'
+dateModified: '2017-01-19T05:31:55.456Z'
+datePublished: '2017-01-19T05:31:56.048Z'
 title: WEEK THREE
 author:
   - name: Gary Vaynerchuk
@@ -57,7 +57,11 @@ Or go to the website here:
 
 WEDNESDAY
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9775918268399a4b14434334f9852bb961ea749.png" /><h1>Google Calendar</h1><p>With Google's free online calendar, it's easy to keep track of life's important events all in one place.</p></article>
+For Tyler:
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F1seh1T77Ano%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1seh1T77Ano&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1seh1T77Ano%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FemhfE6VDi94%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DemhfE6VDi94&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FemhfE6VDi94%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 
 
