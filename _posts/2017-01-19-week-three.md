@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: MONDAY
-dateModified: '2017-01-19T02:55:44.678Z'
-datePublished: '2017-01-19T02:55:45.099Z'
-title: WEEK THREE
+dateModified: '2017-01-19T02:58:19.389Z'
+datePublished: '2017-01-19T02:58:20.721Z'
+title: 'https://calendar.google.com/calendar/render#main_7WEEK THREE'
 author:
   - name: Gary Vaynerchuk
     url: 'https://www.youtube.com/user/GaryVaynerchuk'
@@ -21,7 +21,7 @@ datePublishedOriginal: '2017-01-19T02:05:19.288Z'
 _type: MediaObject
 
 ---
-# WEEK THREE
+# https://calendar.google.com/calendar/render\#main\_7WEEK THREE
 
 MONDAY
 
@@ -41,7 +41,7 @@ TUESDAY
 
 Evernote for the Day
 
-<article style=""><img src="https://www.evernote.com/shard/s504/sh/ee49dcea-fc63-42de-8186-9867509a0ab7/e8af7e9aa73c59ba1e60996af8a9fcf4/thm/note/ee49dcea-fc63-42de-8186-9867509a0ab7" /><h1>3. "edit day"</h1><p>Make Acendas' Vlog for Ascend Learning Add Brent Context Add Credits (white background with Acendas Logo) Episode 12: Helio Food company IG Trailer Facebook Trailer for Benton &amp; Ryan Episode 12 Cont...</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b21962938138151b390f9b0e31591dbd/noop?input=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs504%2Fsh%2Fee49dcea-fc63-42de-8186-9867509a0ab7%2Fe8af7e9aa73c59ba1e60996af8a9fcf4%2Fthm%2Fnote%2Fee49dcea-fc63-42de-8186-9867509a0ab7" /><h1>3. "edit day"</h1><p>Make Acendas' Vlog for Ascend Learning Add Brent Context Add Credits (white background with Acendas Logo) Episode 12: Helio Food company IG Trailer Facebook Trailer for Benton &amp; Ryan Episode 12 Cont...</p></article>
 
 Here's Helio's Daily Video Real 
 
@@ -52,5 +52,9 @@ Or go to the website here:
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07e16f77961d41033333e7d3e255f907091c6d36.png" /><h1>The GaryVee Audio Experience</h1><p>Listen to The GaryVee Audio Experience episodes free, on demand. Welcome to The GaryVee Audio Experience, hosted by entrepreneur, CEO, investor, vlogger, and public speaker Gary Vaynerchuk. On this podcast you'll find a mix of my #AskGaryVee show episodes, keynote speeches on marketing and business, segments from my DAILYVEE video series, interviews and fireside chats I've given, as well as new and current thoughts I record originally for this audio experience!</p></article>
 
 WEDNESDAY 
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a02db6f127ea62980ab2d3061baeb0e3/noop.png?input=https%3A%2F%2Fssl.gstatic.com%2Faccounts%2Fui%2Favatar_2x.png" /><h1>Google Calendar</h1><p>With Google's free online calendar, it's easy to keep track of life's important events all in one place.</p></article>
+
+
 
 [0]: http://www.stitcher.com/podcast/the-askgaryvee-show/e/48838401?autoplay=true
