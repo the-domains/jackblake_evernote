@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: MONDAY
-dateModified: '2017-01-19T05:31:55.456Z'
-datePublished: '2017-01-19T05:31:56.048Z'
+dateModified: '2017-01-19T05:35:10.842Z'
+datePublished: '2017-01-19T05:35:11.657Z'
 title: WEEK THREE
 author:
   - name: Gary Vaynerchuk
