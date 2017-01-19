@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: MONDAY
-dateModified: '2017-01-19T03:04:15.924Z'
-datePublished: '2017-01-19T03:04:16.617Z'
+dateModified: '2017-01-19T03:07:55.465Z'
+datePublished: '2017-01-19T03:07:55.894Z'
 title: WEEK THREE
 author:
   - name: Gary Vaynerchuk
@@ -14,14 +14,16 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 via: {}
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Y16yuZz4xTo'
 sourcePath: _posts/2017-01-19-week-three.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-19T02:05:19.288Z'
-_type: MediaObject
+url: week-three/index.html
+_type: Article
 
 ---
 # WEEK THREE
+[TUEDAY EVERNOTE][0]
 
 MONDAY
 
@@ -39,12 +41,15 @@ HOW TO OPEN THE GATE
 
 TUESDAY
 
-[Evernote for the Day][0]
+[Evernote for the Day][1]
 
 Here's Helio's Daily Video Real
 
 Show Notes:
-[AUDIO ][1]
+[VIDEO ][2]
+[AUDIO ][3]
+
+---
 
 Or go to the website here:
 
@@ -56,5 +61,7 @@ WEDNESDAY
 
 
 
-[0]: https://www.evernote.com/shard/s504/sh/ee49dcea-fc63-42de-8186-9867509a0ab7/e8af7e9aa73c59ba1e60996af8a9fcf4
-[1]: http://www.stitcher.com/podcast/the-askgaryvee-show/e/48838401?autoplay=true
+[0]: https://www.evernote.com/shard/s504/sh/e1d8a151-8ae3-4816-a285-1166eb6e3b22/2d09e0ba4d653e639b3476e426487ee8
+[1]: https://www.evernote.com/shard/s504/sh/ee49dcea-fc63-42de-8186-9867509a0ab7/e8af7e9aa73c59ba1e60996af8a9fcf4
+[2]: https://youtu.be/1seh1T77Ano
+[3]: http://www.stitcher.com/podcast/the-askgaryvee-show/e/48838401?autoplay=true
