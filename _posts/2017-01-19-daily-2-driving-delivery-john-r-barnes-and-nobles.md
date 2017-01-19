@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: FOR TYLER
-dateModified: '2017-01-19T05:33:51.781Z'
-datePublished: '2017-01-19T05:33:52.258Z'
+dateModified: '2017-01-19T05:35:10.842Z'
+datePublished: '2017-01-19T05:35:11.889Z'
 title: DAILY 2 Driving Delivery John R Barnes & Nobles
 author:
   - name: Jack Blake
@@ -15,9 +15,9 @@ publisher:
   domain: youtu.be
 via: {}
 isBasedOnUrl: 'https://youtu.be/emhfE6VDi94'
+sourcePath: _posts/2017-01-19-daily-2-driving-delivery-john-r-barnes-and-nobles.md
 starred: false
 datePublishedOriginal: '2017-01-19T05:33:52.258Z'
-sourcePath: _posts/2017-01-19-daily-2-driving-delivery-john-r-barnes-and-nobles.md
 _type: MediaObject
 
 ---
