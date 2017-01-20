@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'FOR TYLER:'
-dateModified: '2017-01-20T21:26:59.090Z'
-datePublished: '2017-01-20T21:26:59.515Z'
+dateModified: '2017-01-20T21:31:46.754Z'
+datePublished: '2017-01-20T21:31:47.217Z'
 title: Gary Vee Audio Experience
 author:
   - name: Jack Blake
@@ -31,7 +31,7 @@ Something like this is just long form content on one thing: the audio we're ridi
 
 Video Script Ideas:
 
-1. the podcast audio is played in the background, while the video itself is all balck/white cips.
+1. the podcast audio is played in the background, while the video itself is all balck/white clips.
 
 Can you make a vlog/mashup out of these?
 
@@ -40,6 +40,5 @@ Show Notes:
 * 5:52 if one of those convert, you actually make a sound bet / the upside and you have new businesses being built. 6:10--- And no measurements of dollar shave club, but Gillette can. There's no reason business insider should have been done by somebody besides the wall street journal. 6:19 
 
 * 6:43 that's my thesis, when your a leader put an allocation of dollars to put yourself out of business --- before somebody else does 6:49 
-* 
 
 [0]: http://www.stitcher.com/podcast/the-askgaryvee-show/e/an-interview-about-the-state-of-the-advertising-industry-48838401
