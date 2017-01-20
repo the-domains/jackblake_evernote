@@ -3,23 +3,27 @@ inFeed: true
 description: >-
   @Fitness Alliance building — yoga. Pilates. training. massage. boxing.
   therapy. chiropractic?
-dateModified: '2017-01-20T04:49:24.389Z'
-datePublished: '2017-01-20T04:49:25.043Z'
+dateModified: '2017-01-20T04:53:42.336Z'
+datePublished: '2017-01-20T04:53:42.856Z'
 title: THURSDAY @ PRO ALPHA — KIRK JOHNSON
-author: []
-publisher: {}
+author:
+  - name: Jack Blake
+    url: 'https://www.youtube.com/channel/UCgsPGTkZJoT6QFEn2vtUM_w'
+    avatar: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-20-thursday-pro-alpha-kirk-johnson.md
 starred: false
 datePublishedOriginal: '2017-01-20T04:49:25.043Z'
-sourcePath: _posts/2017-01-20-thursday-pro-alpha-kirk-johnson.md
 url: thursday-pro-alpha-kirk-johnson/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75db35f9-ef97-4d19-9951-b352c8da8cec.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cfae341-0e57-4e10-8596-11da73d55efc.mp4)
-
 # THURSDAY @ PRO ALPHA --- KIRK JOHNSON
 
 @Fitness Alliance building --- yoga. Pilates. training. massage. boxing. therapy. chiropractic?
@@ -33,6 +37,8 @@ Crunchy Mom Facebook Groups - Kirk's wife said something about it.
 ..Crunchy KC
 
 ...Keto KC
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjLk0fD9xJMs%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjLk0fD9xJMs&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjLk0fD9xJMs%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 \#guthealth \#proalpha
 
