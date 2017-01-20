@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   @Fitness Alliance building — yoga. Pilates. training. massage. boxing.
   therapy. chiropractic?
-dateModified: '2017-01-20T04:53:42.336Z'
-datePublished: '2017-01-20T04:53:42.856Z'
+dateModified: '2017-01-20T15:03:44.934Z'
+datePublished: '2017-01-20T15:03:45.689Z'
 title: THURSDAY @ PRO ALPHA — KIRK JOHNSON
 author:
   - name: Jack Blake
@@ -43,6 +43,10 @@ Crunchy Mom Facebook Groups - Kirk's wife said something about it.
 \#guthealth \#proalpha
 
 ---
+
+FOR TYLER 
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtFAhq8wvGNY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtFAhq8wvGNY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtFAhq8wvGNY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ---
 
