@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Thumbnail —
-dateModified: '2017-01-23T04:47:20.383Z'
-datePublished: '2017-01-23T04:47:20.967Z'
+dateModified: '2017-01-23T04:47:36.664Z'
+datePublished: '2017-01-23T04:47:37.072Z'
 title: WEEK THREE
 author:
   - name: Jack Blake
@@ -25,6 +25,8 @@ _type: Article
 # WEEK THREE
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FfHq5eAm7s1U%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfHq5eAm7s1U&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfHq5eAm7s1U%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+# WEEK THREE
 
 Thumbnail ---
 
