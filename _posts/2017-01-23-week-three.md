@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Thumbnail — '
-dateModified: '2017-01-23T04:46:36.441Z'
-datePublished: '2017-01-23T04:46:36.865Z'
+description: Thumbnail —
+dateModified: '2017-01-23T04:47:20.383Z'
+datePublished: '2017-01-23T04:47:20.967Z'
 title: WEEK THREE
 author:
   - name: Jack Blake
@@ -26,10 +26,8 @@ _type: Article
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FfHq5eAm7s1U%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfHq5eAm7s1U&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfHq5eAm7s1U%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-Thumbnail --- 
+Thumbnail ---
 
-Titles --- 
+Titles ---
 
-Music By https://soundcloud.com/heartrecordingsofficial/hr05 
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F303586059%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fheartrecordingsofficial%2Fhr05&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203753771-wjbbke-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+Music By https://soundcloud.com/heartrecordingsofficial/hr05
