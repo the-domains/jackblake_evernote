@@ -17,7 +17,6 @@ content:
         domain: imgflo.herokuapp.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -47,7 +46,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-description: 'Perspectives From My Daily Endeavors '
+description: Be the change you wish to see
 color:
   saturation: 0.7616874
   brandStrength: 0.8888889
