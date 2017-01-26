@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'FOR TYLER:'
-dateModified: '2017-01-20T21:31:46.754Z'
-datePublished: '2017-01-20T21:31:47.217Z'
+dateModified: '2017-01-26T20:08:51.086Z'
+datePublished: '2017-01-26T20:08:53.117Z'
 title: Gary Vee Audio Experience
 author:
   - name: Jack Blake
