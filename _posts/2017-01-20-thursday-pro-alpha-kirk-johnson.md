@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   @Fitness Alliance building — yoga. Pilates. training. massage. boxing.
   therapy. chiropractic?
-dateModified: '2017-01-20T15:03:44.934Z'
-datePublished: '2017-01-20T15:03:45.689Z'
+dateModified: '2017-01-26T20:08:51.086Z'
+datePublished: '2017-01-26T20:08:52.837Z'
 title: THURSDAY @ PRO ALPHA — KIRK JOHNSON
 author:
   - name: Jack Blake
