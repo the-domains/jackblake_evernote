@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.quarterdeck.co/skipper/skipper-academy'
 title: Quarter Deck | Skipper Academy
-datePublished: '2017-01-19T05:35:11.363Z'
-dateModified: '2017-01-19T05:35:10.842Z'
+datePublished: '2017-01-26T20:08:53.066Z'
+dateModified: '2017-01-26T20:08:51.086Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-27-quarter-deck-or-skipper-academy.md
