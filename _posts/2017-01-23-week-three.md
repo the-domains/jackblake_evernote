@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Thumbnail —
-dateModified: '2017-01-23T20:05:36.110Z'
-datePublished: '2017-01-23T20:05:37.250Z'
+dateModified: '2017-01-26T20:08:51.086Z'
+datePublished: '2017-01-26T20:08:52.425Z'
 title: WEEK THREE
 author:
   - name: Jack Blake
