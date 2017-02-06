@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jack, the Skipper from Kansas]]></title>
-        <description><![CDATA[Jack, the Skipper from Kansas]]></description>
+        <title><![CDATA[Jack, The Skipper From Kansas]]></title>
+        <description><![CDATA[Jack, The Skipper From Kansas]]></description>
         <link>https://thegrid.ai/jackblake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Jan 2017 18:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2017 15:29:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jackblake/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Jan 2017 18:01:47 GMT</pubDate>
+        <pubDate>Mon, 06 Feb 2017 15:29:13 GMT</pubDate>
         <item>
             <title><![CDATA[WEEK TWO]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/138cc6f8-64fe-4c47-a956-d44f14f441cb.jpg">,<h1>WEEK TWO</h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fx0SBVGKKT-w%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx0SBVGKKT-w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx0SBVGKKT-w%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>If you’d like to hear more from Ralph about nootropics and brain health, functions, and supplements along with it, let us know! Message us by clicking the button below.</p>,<a href="https://www.facebook.com/heliofoodcompany/" data-role="cta">Learn More From Ralph </a>,<pre><code>&lt;script&gt;
 fbq(&apos;track&apos;, &apos;ViewContent&apos;, {
 value: 3.50,
 currency: &apos;USD&apos;
+});
+&lt;/script&gt;
+</code></pre>,<pre><code>&lt;!-- The below method uses jQuery, but that is not required --&gt;
+&lt;button id=&quot;addToCartButton&quot;&gt;Add To Cart&lt;/button&gt;
+&lt;!-- Add event to the button&apos;s click handler --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+$( &apos;#addToCartButton&apos; ).click(function() {
+fbq(&apos;track&apos;, &apos;AddToCart&apos;, {
+content_ids: [&apos;1234&apos;],
+content_type: &apos;product&apos;,
+value: 2.99,
+currency: &apos;USD&apos;
+});
 });
 &lt;/script&gt;
 </code></pre>]]></description>
@@ -61,6 +74,20 @@ currency: &apos;USD&apos;
             <link>https://www.theyachtweek.com/croatia</link>
             <guid isPermaLink="false">556d23b5-6928-41fc-b8ba-5814c81d1da0</guid>
             <pubDate>Tue, 27 Dec 2016 01:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Skipper From Kansas]]></title>
+            <description><![CDATA[<h1>The Skipper From Kansas</h1>,<h2>Currently working in Kansas and travel when it calls for it.</h2>,<p>My most recent business was in Tampa, Florida for a Metabolic Therapeutics conference. Here’s who I worked with and sponsored the event:</p>,<ol><li><a href="http://www.heliofoodcompany.com/" title="">Helio Food Company</a> (Who I work with)</li><li>The Epigenix Foundation (Presenting Sponsor)</li><li>Quest Keto (Platinum Sponsor)</li><li>Pruvit (Gold Sponsor)</li><li>Keto Sports (Silver Sponsor)</li><li>The Charlie Foundation, Max Love Project, Dry Farm Wines, Bulletproof, Restore, Keto Kookie, KetoVie, Ketogenic.com, Ample Foods, Kegenix (Bronze Sponsors)</li></ol>]]></description>
+            <link>https://thegrid.ai/jackblake/the-skipper-from-kansas/index.html</link>
+            <guid isPermaLink="false">85278aed-0129-494d-9fb4-14a46083a5ae</guid>
+            <pubDate>Mon, 06 Feb 2017 00:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keto Pie - Ketogenic]]></title>
+            <description><![CDATA[<article><h1>Keto Pie - Ketogenic</h1><p>Ketogenic - The authoritative ketogenic website. Education, FAQs, Recipes, Articles, and more! An evidence based approach to ketogenic dieting</p><img src="http://ketogenic.com/wp-content/uploads/2016/11/keto-pie-chart-small-fit.jpg"></article>]]></description>
+            <link>http://ketogenic.com/tools/keto-pie/</link>
+            <guid isPermaLink="false">9bdb981d-6a48-41d6-9b99-b3deaa0846bc</guid>
+            <pubDate>Mon, 06 Feb 2017 15:29:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
